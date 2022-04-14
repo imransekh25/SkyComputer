@@ -9,5 +9,4 @@ public class AkashComputerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AkashComputerApplication.class, args);
 	}
-
 }
